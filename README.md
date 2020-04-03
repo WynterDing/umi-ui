@@ -167,7 +167,7 @@ $ yarn start
 
 调试如图：
 
-![](https://raw.githubusercontent.com/ycjcl868/cdn/master/20200202091318.png?token=ADHXG5NO7FQGSB4U5HFYBH26GYRG6)
+![](https://user-images.githubusercontent.com/11213298/78351230-0c200700-75d9-11ea-906e-ac92204d2171.jpg)
 
 ### 插件开发原理
 
